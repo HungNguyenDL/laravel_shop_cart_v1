@@ -1,5 +1,5 @@
 <?php
-
+namespace GM;
 namespace Tests;
 
 use Illuminate\Foundation\Testing\RefreshDatabase;
